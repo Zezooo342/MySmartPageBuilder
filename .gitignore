@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.log
+.env
+.env.*
+venv/
+.build/
+dist/
+node_modules/
+.DS_Store
+.idea/
+.vscode/
+.cache/
+coverage/
+*.coverage
+*.egg-info/
