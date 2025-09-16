@@ -1,0 +1,1 @@
+# Core initialization (registry, base classes will go here)

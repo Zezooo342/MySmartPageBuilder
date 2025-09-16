@@ -1,0 +1,1 @@
+# Renderer module initialization (pipeline + helpers will go here)
